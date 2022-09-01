@@ -12,7 +12,7 @@
  <br/> <ins>***Çalışma mantığı nasıl?***</ins>
   <br/><u> <li> İlk olarak VSCode, istediğimiz programlama dilinin imajını indirecek ve bu imajdan bir konteyner oluşturacak.
  Sonraki adım olarak o konteyenerın içine benim dosyalarımı bağlayacak (örneğin; benim /Sample içerisinde oluşturmuş olduğum deneme.java dosyası).
- Ve böylelikle ben bilgisayarımda Java kurulu olmadan, java kurulu olan bir konteyner içerisinde java dosyamı geliştirebileceğim. </u> </li>
+ Ve böylelikle ben bilgisayarımda Java kurulu olmadan, java kurulu olan bir konteyner içerisinde, java dosyamı geliştirebileceğim. </u> </li>
  
 <br/>  <ins>***Nasıl kullanılır?***</ins>
 <br/> <u> <li>İlk olarak bu toolu kullanabilmek için extension olarak Visual Studio Code'dan Remote Development eklentisini install etmemiz gerekiyor. Bu aşamadan sonra konteynerlarda yer alan geliştirme ortamlarına ulaşabiliyoruz.</li>
