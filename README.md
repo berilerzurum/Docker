@@ -7,7 +7,7 @@
   <br/> Bugün sizlere "/Sample" dosyasında oluşturduğum deneme.java dosyasını geliştirmek için kullandığım Visual Studio'nun Remote Toollarından bahsetmek istiyorum.
  
   <br/> <ins>***Amaç nedir?***</ins>
-<br/> > -Bu toolun amacı; örneğin, biz bir java dosyası oluşturmak istiyoruz. Fakat bilgisayarımızda Java için gerekli ortam (jdk dosyası, environment settings vs.) bulunmuyor. Ben bu remote development sayesinde istiyorum ki beni Java kurulu olan bir konteyner içinde uyandır ve ben java dosyamı, bilgisayarıma java dosyalarını indirmeme gerek kalmadan, o konteynerin içinde geliştireyim.
+<br/> <u> <li>Bu toolun amacı; örneğin, biz bir java dosyası oluşturmak istiyoruz. Fakat bilgisayarımızda Java için gerekli ortam (jdk dosyası, environment settings vs.) bulunmuyor. Ben bu remote development sayesinde istiyorum ki beni Java kurulu olan bir konteyner içinde uyandır ve ben java dosyamı, bilgisayarıma java dosyalarını indirmeme gerek kalmadan, o konteynerin içinde geliştireyim.</u> </li>
  
  <br/> <ins>***Çalışma mantığı nasıl?***</ins>
   <br/> İlk olarak VSCode, istediğimiz programlama dilinin imajını indirecek ve bu imajdan bir konteyner oluşturacak.
