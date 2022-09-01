@@ -17,7 +17,7 @@
 <br/>  <ins>***Nasıl kullanılır?***</ins>
 <br/> <u> <li>İlk olarak bu toolu kullanabilmek için extension olarak Visual Studio Code'dan Remote Development eklentisini install etmemiz gerekiyor. Bu aşamadan sonra konteynerlarda yer alan geliştirme ortamlarına ulaşabiliyoruz.</li>
  <li>Daha sonra, VSCode editörünün sol alt köşesinde yer alan "Open a Remote Window" seçeneğini seçip, "Open Folder in Container"'a tıklıyoruz. Ve container configuration, OS, version ayarlarını da seçtikten sonra VSCode bize bir imaj oluşturuyor. Ve bu imajdan, içerisinde development yapabileceğimiz bir konteyner yaratıyor.</li>
- <li>Ve bu işlem sonucunda VSCode, .devcontainer adlı bir dosya yaratıyor. Bu dosyanın içerisinde yaptığımız imaj ayarlarını da görebileceğimiz bir "Dockerfile" ve "devcontainer.json" dosyaları bulunuyor. </u> </li>
+ <li>Bu işlem sonucunda VSCode, .devcontainer adlı bir dosya yaratıyor. Bu dosyanın içerisinde yaptığımız imaj ayarlarını da görebileceğimiz bir "Dockerfile" ve "devcontainer.json" dosyaları bulunuyor. </u> </li>
  
   <br/><ins> ***Eğer konteynera ek extension eklemek istersek ne yapmalıyız?***</ins>
 <br/> <u> <li> Bazı eklentiler imaj içerisinde default olarak geliyor. Fakat ek eklenti eklemek istersek, yukarıda da bahsettiğim devcontainer.json dosyasındaki "extensions" kısmına ekleme yapabiliyoruz. İstediğim eklentinin Extension ID'sini .json dosyasındaki eklenti kısmına kopyalayarak istediğim eklentileri imajıma yerleştirebiliyorum.</u> </li>
