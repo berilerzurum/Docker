@@ -6,7 +6,7 @@
  
   <br/> Bugün sizlere "/Sample" dosyasında oluşturduğum deneme.java dosyasını geliştirmek için kullandığım Visual Studio'nun Remote Toollarından bahsetmek istiyorum.
  
-  <br/> <u>***Amaç nedir?***</u>
+  <br/> <u>***Amaç nedir?***
 <br/>  Bu toolun amacı; örneğin, biz bir java dosyası oluşturmak istiyoruz. Fakat bilgisayarımızda Java için gerekli ortam (jdk dosyası, environment settings vs.) bulunmuyor. Ben bu remote development sayesinde istiyorum ki beni Java kurulu olan bir konteyner içinde uyandır ve ben java dosyamı, bilgisayarıma java dosyalarını indirmeme gerek kalmadan, o konteynerin içinde geliştireyim.
  
  <br/> ***Çalışma mantığı nasıl?***
